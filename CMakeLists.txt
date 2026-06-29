@@ -21,6 +21,7 @@ install(
     scripts/aruco_detect
     scripts/aruco_detect_topics
     scripts/aruco_circle_nav
+    scripts/aruco_node
   DESTINATION lib/${PROJECT_NAME}
 )
 
