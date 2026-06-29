@@ -19,6 +19,7 @@ install(
   PROGRAMS
     scripts/aruco_circle
     scripts/aruco_detect
+    scripts/aruco_detect_topics
   DESTINATION lib/${PROJECT_NAME}
 )
 
